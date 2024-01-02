@@ -17,4 +17,6 @@ body {
   min-height: 100vh;
   padding: 50px;
 }
-
+.container.show-nav {
+  transform: rotate(360deg);
+}
